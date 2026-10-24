@@ -28,7 +28,7 @@
 - 支持匹配占用的进程名
 
 ## 设置截图
-<img width="2047" height="1152" alt="image" src="https://github.com/user-attachments/assets/8770f2f8-fd0e-4002-851e-7b9e91f6b264" />
+<img width="2047" height="1152" alt="image" src="./screenshoot.png" />
 
 ## 系统要求
 
