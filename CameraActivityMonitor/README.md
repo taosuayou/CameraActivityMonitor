@@ -28,7 +28,8 @@
 - 支持匹配占用的进程名
 
 ## 设置截图
-<img width="2047" height="1152" alt="image" src="./screenshoot.png" />
+<img width="1083" height="1294" alt="CameraActivityMonitor" src="https://github.com/user-attachments/assets/85ee55ac-4caf-4858-b9f3-4ffad0de00d8" />
+
 
 ## 系统要求
 
